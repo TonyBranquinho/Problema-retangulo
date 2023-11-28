@@ -1,0 +1,7 @@
+C:\temp\ws-vs2019\problema retangulo\problema retangulo\problema retangulo\bin\Debug\problema retangulo.exe.config
+C:\temp\ws-vs2019\problema retangulo\problema retangulo\problema retangulo\bin\Debug\problema retangulo.exe
+C:\temp\ws-vs2019\problema retangulo\problema retangulo\problema retangulo\bin\Debug\problema retangulo.pdb
+C:\temp\ws-vs2019\problema retangulo\problema retangulo\problema retangulo\obj\Debug\problema retangulo.csproj.AssemblyReference.cache
+C:\temp\ws-vs2019\problema retangulo\problema retangulo\problema retangulo\obj\Debug\problema retangulo.csproj.CoreCompileInputs.cache
+C:\temp\ws-vs2019\problema retangulo\problema retangulo\problema retangulo\obj\Debug\problema retangulo.exe
+C:\temp\ws-vs2019\problema retangulo\problema retangulo\problema retangulo\obj\Debug\problema retangulo.pdb
